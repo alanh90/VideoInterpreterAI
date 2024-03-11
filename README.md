@@ -1,5 +1,7 @@
 # Video Understanding App
 
+![FractalNet Logo](videointerpreter_ai.png)
+
 This Streamlit-based application integrates computer vision and AI to analyze and understand video content. It uses OpenAI's powerful GPT-4 API to generate descriptive text for video sequences, offering a glimpse into the content and context of the videos.
 
 ## Features
